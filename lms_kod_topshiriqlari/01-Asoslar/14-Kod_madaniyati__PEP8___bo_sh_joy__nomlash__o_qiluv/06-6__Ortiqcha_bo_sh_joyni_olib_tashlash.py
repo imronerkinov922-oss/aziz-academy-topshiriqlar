@@ -1,0 +1,3 @@
+# Kodingizni shu yerga yozing
+text = input()
+print(text.strip())
