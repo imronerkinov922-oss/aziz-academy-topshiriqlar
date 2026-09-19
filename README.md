@@ -4,16 +4,14 @@
 
 ## 📊 Umumiy progress
 
-`███░░░░░░░░░░░░░░░░░` **13%**  (24/179 mavzu)
+`██░░░░░░░░░░░░░░░░░░` **12%**  (22/179 mavzu)
 
-- ⭐ Jami ball: **40845**
-- 📤 GitHubga yuborilgan topshiriqlar: **245**
+- ⭐ Jami ball: **43020**
+- 📤 GitHubga yuborilgan topshiriqlar: **246**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 2 — Stringlar va Formatlash** → **🛠 Amaliy: Matn tahlili — so'z sanash, harf statistikasi**
-
-➡️ Keyingi mavzu: *🛠 Mini-loyiha: Login + parol tekshirish (validatsiya)*
+**MODUL 2 — Stringlar va Formatlash** → **🛠 Mini-loyiha: Login + parol tekshirish (validatsiya)**
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -26,8 +24,8 @@
 - ✅ Boshqa formatlash — .format() va % (eski usullar)
 - ✅ Escape belgilar — \n, \t, \\, \"
 - ✅ Ko'p qatorli stringlar — """...""", docstring
-- ✅ 🛠 Amaliy: Matn tahlili — so'z sanash, harf statistikasi  ← yetgan joyingiz
-- ⬜ 🛠 Mini-loyiha: Login + parol tekshirish (validatsiya)
+- ✅ 🛠 Amaliy: Matn tahlili — so'z sanash, harf statistikasi
+- ✅ 🛠 Mini-loyiha: Login + parol tekshirish (validatsiya)  ← yetgan joyingiz
 
 </details>
 
@@ -35,8 +33,8 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | ✅ Asoslar | `██████████` 100% | 15/15 |
-| 2 | 🔸 Stringlar va Formatlash | `█████████░` 90% | 9/10 |
+| 1 | 🔸 Asoslar | `████████░░` 80% | 12/15 |
+| 2 | ✅ Stringlar va Formatlash | `██████████` 100% | 10/10 |
 | 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
@@ -58,4 +56,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-09-16 09:43</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-09-19 10:05</sub>
