@@ -8,4 +8,3 @@ elif n == 3:
     print("Wed")
 else:
     print("Other")
-# aks holda Other
