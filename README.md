@@ -4,23 +4,23 @@
 
 ## 📊 Umumiy progress
 
-`███░░░░░░░░░░░░░░░░░` **13%**  (24/179 mavzu)
+`███░░░░░░░░░░░░░░░░░` **14%**  (25/179 mavzu)
 
-- ⭐ Jami ball: **67973**
-- 📤 GitHubga yuborilgan topshiriqlar: **295**
+- ⭐ Jami ball: **67988**
+- 📤 GitHubga yuborilgan topshiriqlar: **296**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 3 — Shartlar va Sikllar** → **Ichma-ich shartlar (nested if) — mantiqni tartiblash**
+**MODUL 3 — Shartlar va Sikllar** → **🛠 Shartli menyu — oddiy CLI menyu**
 
-➡️ Keyingi mavzu: *🛠 Shartli menyu — oddiy CLI menyu*
+➡️ Keyingi mavzu: *while sikli ⭐ — shartga asoslangan takrorlash*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
 - ✅ if / elif / else ⭐ — shart operatorlari asoslari
-- ✅ Ichma-ich shartlar (nested if) — mantiqni tartiblash  ← yetgan joyingiz
-- ⬜ 🛠 Shartli menyu — oddiy CLI menyu
+- ✅ Ichma-ich shartlar (nested if) — mantiqni tartiblash
+- ✅ 🛠 Shartli menyu — oddiy CLI menyu  ← yetgan joyingiz
 - ⬜ while sikli ⭐ — shartga asoslangan takrorlash
 - ⬜ break va continue — sikldan chiqish va o'tkazib yuborish
 - ⬜ for va range() ⭐ — ketma-ket takrorlash
@@ -42,7 +42,7 @@
 |---|-------|----------|----------|
 | 1 | 🔸 Asoslar | `████████░░` 80% | 12/15 |
 | 2 | ✅ Stringlar va Formatlash | `██████████` 100% | 10/10 |
-| 3 | 🔸 Shartlar va Sikllar | `█░░░░░░░░░` 13% | 2/15 |
+| 3 | 🔸 Shartlar va Sikllar | `██░░░░░░░░` 20% | 3/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
 | 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-05 11:38</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-05 11:48</sub>
