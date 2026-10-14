@@ -6,33 +6,33 @@
 
 `███░░░░░░░░░░░░░░░░░` **16%**  (28/179 mavzu)
 
-- ⭐ Jami ball: **78524**
-- 📤 GitHubga yuborilgan topshiriqlar: **327**
+- ⭐ Jami ball: **81486**
+- 📤 GitHubga yuborilgan topshiriqlar: **328**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 3 — Shartlar va Sikllar** → **while sikli ⭐ — shartga asoslangan takrorlash**
+**MODUL 3 — Shartlar va Sikllar** → **while sikli ⭐ - shartga asoslangan takrorlash**
 
-➡️ Keyingi mavzu: *break va continue — sikldan chiqish va o'tkazib yuborish*
+➡️ Keyingi mavzu: *break va continue - sikldan chiqish va o'tkazib yuborish*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ if / elif / else ⭐ — shart operatorlari asoslari
-- ✅ Ichma-ich shartlar (nested if) — mantiqni tartiblash
-- ✅ 🛠 Shartli menyu — oddiy CLI menyu
-- ✅ while sikli ⭐ — shartga asoslangan takrorlash  ← yetgan joyingiz
-- ⬜ break va continue — sikldan chiqish va o'tkazib yuborish
-- ⬜ for va range() ⭐ — ketma-ket takrorlash
-- ⬜ for bilan kolleksiyalar — string/list bo'ylab yurish
-- ⬜ Pattern chizish — yulduzchalar, uchburchaklar (nested loop)
-- ⬜ Filtrlash — juft sonlar, musbat sonlar ajratish
-- ⬜ Hisoblash ⭐ — max, min, yig'indi, o'rtacha
-- ⬜ Nested loop — ko'paytirish jadvali
-- ⬜ Oddiy algoritmlar — bo'luvchilar, tub son tekshirish
-- ⬜ 🛠 Loyiha: Taxmin o'yini (Guess game) — random + while
-- ⬜ 🛠 Loyiha: Kengaytirilgan kalkulyator — menyu + sikl
-- ⬜ Infinite loop 🔁 — cheksiz sikl muammosi va oldini olish
+- ✅ if / elif / else ⭐ - shart operatorlari asoslari
+- ✅ Ichma-ich shartlar (nested if) - mantiqni tartiblash
+- ✅ 🛠 Shartli menyu - oddiy CLI menyu
+- ✅ while sikli ⭐ - shartga asoslangan takrorlash  ← yetgan joyingiz
+- ⬜ break va continue - sikldan chiqish va o'tkazib yuborish
+- ⬜ for va range() ⭐ - ketma-ket takrorlash
+- ⬜ for bilan kolleksiyalar - string/list bo'ylab yurish
+- ⬜ Pattern chizish - yulduzchalar, uchburchaklar (nested loop)
+- ⬜ Filtrlash - juft sonlar, musbat sonlar ajratish
+- ⬜ Hisoblash ⭐ - max, min, yig'indi, o'rtacha
+- ⬜ Nested loop - ko'paytirish jadvali
+- ⬜ Oddiy algoritmlar - bo'luvchilar, tub son tekshirish
+- ⬜ 🛠 Loyiha: Taxmin o'yini (Guess game) - random + while
+- ⬜ 🛠 Loyiha: Kengaytirilgan kalkulyator - menyu + sikl
+- ⬜ Infinite loop 🔁 - cheksiz sikl muammosi va oldini olish
 
 </details>
 
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-13 10:56</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-14 11:52</sub>
