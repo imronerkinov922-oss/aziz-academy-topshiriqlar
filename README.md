@@ -4,16 +4,16 @@
 
 ## 📊 Umumiy progress
 
-`████░░░░░░░░░░░░░░░░` **20%**  (35/179 mavzu)
+`████░░░░░░░░░░░░░░░░` **20%**  (36/179 mavzu)
 
-- ⭐ Jami ball: **100052**
-- 📤 GitHubga yuborilgan topshiriqlar: **471**
+- ⭐ Jami ball: **102518**
+- 📤 GitHubga yuborilgan topshiriqlar: **472**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 3 — Shartlar va Sikllar** → **Nested loop - ko'paytirish jadvali**
+**MODUL 3 — Shartlar va Sikllar** → **Oddiy algoritmlar - bo'luvchilar, tub son tekshirish**
 
-➡️ Keyingi mavzu: *Oddiy algoritmlar - bo'luvchilar, tub son tekshirish*
+➡️ Keyingi mavzu: *🛠 Loyiha: Taxmin o'yini (Guess game) - random + while*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -28,8 +28,8 @@
 - ✅ Pattern chizish - yulduzchalar, uchburchaklar (nested loop)
 - ✅ Filtrlash - juft sonlar, musbat sonlar ajratish
 - ✅ Hisoblash ⭐ - max, min, yig'indi, o'rtacha
-- ✅ Nested loop - ko'paytirish jadvali  ← yetgan joyingiz
-- ⬜ Oddiy algoritmlar - bo'luvchilar, tub son tekshirish
+- ✅ Nested loop - ko'paytirish jadvali
+- ✅ Oddiy algoritmlar - bo'luvchilar, tub son tekshirish  ← yetgan joyingiz
 - ⬜ 🛠 Loyiha: Taxmin o'yini (Guess game) - random + while
 - ⬜ 🛠 Loyiha: Kengaytirilgan kalkulyator - menyu + sikl
 - ⬜ Infinite loop 🔁 - cheksiz sikl muammosi va oldini olish
@@ -42,7 +42,7 @@
 |---|-------|----------|----------|
 | 1 | 🔸 Asoslar | `█████████░` 93% | 14/15 |
 | 2 | ✅ Stringlar va Formatlash | `██████████` 100% | 10/10 |
-| 3 | 🔸 Shartlar va Sikllar | `███████░░░` 73% | 11/15 |
+| 3 | 🔸 Shartlar va Sikllar | `████████░░` 80% | 12/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
 | 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-31 10:14</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-31 16:11</sub>
