@@ -1,0 +1,6 @@
+nom = input()
+narx = int(input())
+soni = int(input())
+mahsulot = (nom, narx, soni)
+print(mahsulot)
+print(mahsulot[1] * mahsulot[2])
